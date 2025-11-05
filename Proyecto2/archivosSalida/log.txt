@@ -1,0 +1,6 @@
+[FECHA: 2025-11-04T23:27:27.334766200]
+Tamano original: 297
+Tamano comprimido: 107
+Porcentaje de compresion: 63.97 %
+Tiempo total: 0.009 segundos
+---------------------------------------

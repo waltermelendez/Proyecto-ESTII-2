@@ -1,0 +1,28 @@
+
+[FECHA: 2025-11-04T21:19:03.714302200]
+Tamaño original: 22
+Tamaño comprimido: 175
+Porcentaje de compresión: 0.00 %
+Tiempo total: 0.008 segundos
+---------------------------------------
+
+[FECHA: 2025-11-04T21:24:16.966368700]
+Tamano original: 22
+Tamano comprimido: 175
+Porcentaje de compresion: 0.00 %
+Tiempo total: 0.009 segundos
+---------------------------------------
+
+[FECHA: 2025-11-04T21:32:07.236686200]
+Tamano original: 22
+Tamano comprimido: 22
+Porcentaje de compresion: 0.00 %
+Tiempo total: 0.009 segundos
+---------------------------------------
+
+[FECHA: 2025-11-04T22:26:18.375914700]
+Tamano original: 22
+Tamano comprimido: 228
+Porcentaje de compresion: 0.00 %
+Tiempo total: 0.010 segundos
+---------------------------------------
