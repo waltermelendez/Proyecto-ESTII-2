@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-package com.mycompany.proyecto2;
+package main.java.com.mycompany.proyecto2;
 
 import java.io.*;
 import java.util.ArrayList;
